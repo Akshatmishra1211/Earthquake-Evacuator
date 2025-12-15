@@ -154,3 +154,27 @@ The Earthquake Evacuator demonstrates that **Operating System Scheduling Algorit
 It effectively models evacuation under constraints such as limited resources, unpredictable aftershocks, and priority-based rescue decisions.
 
 ---
+
+## 10. Images
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af743979-c0d1-4afb-a8b7-878c1ff5ea21" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f77eb97a-bf12-4faa-bc8e-e24f90e2e7db" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/659b62ac-222d-4d94-a7f4-1280c9617713" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fde12dc6-cd8c-4199-abb2-015b957029c2" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87d10b34-9016-4d5d-a876-0a737c4ac4d8" width="700" />
+</p>
+
+
